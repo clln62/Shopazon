@@ -61,3 +61,5 @@ This project was an opportunity to work in a group of six Army veterans, while b
 - Time management became a big aspect that assisted in building a working proxy server in a short amount of time, while still working with the rest of the team.<br/>
 - Tickets on Trello assisted the team in planning and production. Utilizing Trello kept organization and accountability in creating and developing a production level proxy server.
 
+
+#### Check out the client side of this app here: https://github.com/clln62/shopazonRelatedItems
